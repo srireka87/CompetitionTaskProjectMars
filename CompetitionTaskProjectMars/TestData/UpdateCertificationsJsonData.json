@@ -1,0 +1,28 @@
+[
+  {
+    "CertificateAwardName": "AmazonAWS Azure",
+    "CertifiedFrom": "Amazon",
+    "Year": "2017",
+    "NewCertificateAwardName": "Scrum Master",
+    "NewCertifiedFrom": "ISTQB",
+    "NewYear": "2021"
+
+  },
+  {
+    "CertificateAwardName": "SQL Database Administrator",
+    "CertifiedFrom": "Oracle",
+    "Year": "2021",
+    "NewCertificateAwardName": "Scrum Master Certifications",
+    "NewCertifiedFrom": "SoftwareTestingASTQB",
+    "NewYear": "2019"
+
+  },
+  {
+    "CertificateAwardName": "IBM Splunk",
+    "CertifiedFrom": "IBM",
+    "Year": "2021",
+    "NewCertificateAwardName": "ServiceNow",
+    "NewCertifiedFrom": "Microsoft365",
+    "NewYear": "2017"
+  }
+]
