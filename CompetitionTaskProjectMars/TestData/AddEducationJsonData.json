@@ -1,0 +1,39 @@
+
+  [
+    {
+      "CollegeUniversityName": "ABC College",
+      "CountryofCollege": "Canada",
+      "Title": "B.Tech",
+      "Degree": "Bachelor's of Computer Science",
+      "YearOfGraduation": "2020"
+    },
+    {
+      "CollegeUniversityName": "RMIT",
+      "CountryofCollege": "Australia",
+      "Title": "B.Arch",
+      "Degree": "Bachelor's of Architecture",
+      "YearOfGraduation": "2019"
+    },
+    {
+      "CollegeUniversityName": "Darwin University",
+      "CountryofCollege": "Bangladesh",
+      "Title": "B.A",
+      "Degree": "Masters of Marine Biology",
+      "YearOfGraduation": "2022"
+    },
+    {
+      "CollegeUniversityName": "XYZ University",
+      "CountryofCollege": "Germany",
+      "Title": "M.B.A",
+      "Degree": "Master's of Business Administration",
+      "YearOfGraduation": "2021"
+    },
+    {
+      "CollegeUniversityName": "PQR College",
+      "CountryofCollege": "India",
+      "Title": "B.Sc",
+      "Degree": "Bachelor's of Science",
+      "YearOfGraduation": "2018"
+    }
+  ]
+

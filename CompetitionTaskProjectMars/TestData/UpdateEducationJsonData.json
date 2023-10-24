@@ -1,0 +1,27 @@
+[
+  {
+    "CollegeUniversityName": "Karunya University",
+    "CountryofCollege": "India",
+    "Title": "B.Tech",
+    "Degree": "Bachelor's of Information Technology",
+    "YearOfGraduation": "2010",
+    "NewCollegeUniversityName": "TAFE University",
+    "NewCountryofCollege": "Brazil",
+    "NewTitle": "M.A",
+    "NewDegree": "Masters of Education",
+    "NewYearOfGraduation": "2015"
+  },
+  {
+    "CollegeUniversityName": "UpSkill College",
+    "CountryofCollege": "Australia",
+    "Title": "M.B.A",
+    "Degree": "Business Administration",
+    "YearOfGraduation": "2009",
+    "NewCollegeUniversityName": "Melbourne University",
+    "NewCountryofCollege": "Poland",
+    "NewDegree": "Master's of Business Administration",
+    "NewTitle": "M.B.A",
+    "NewYearOfGraduation": "2001"
+  }
+]
+

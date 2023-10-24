@@ -1,0 +1,16 @@
+[
+  {
+    "CollegeUniversityName": "Melbourne University",
+    "CountryofCollege": "Italy",
+    "Title": "M.B.A",
+    "Degree": "Master's of Business Administration",
+    "YearOfGraduation": "2001"
+  },
+  {
+    "CollegeUniversityName": "Swinburne College",
+    "CountryofCollege": "France",
+    "Title": "BFA",
+    "Degree": "Bachelor's of Film Technology",
+    "YearOfGraduation": "2008"
+  }
+]

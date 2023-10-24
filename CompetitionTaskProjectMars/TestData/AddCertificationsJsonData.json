@@ -1,0 +1,21 @@
+[
+  {
+    "CertificateAwardName": "MicrosoftAWS Azure",
+    "CertifiedFrom": "Microsoft",
+    "Year": "2020"
+
+  },
+  {
+    "CertificateAwardName": "ISTQB Certifications",
+    "CertifiedFrom": "SoftwareTestingASTQB",
+    "Year": "2009"
+
+
+  },
+  {
+    "CertificateAwardName": "Salesforce",
+    "CertifiedFrom": "TrailHeadSalesforce",
+    "Year": "2021"
+
+  }
+]
